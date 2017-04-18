@@ -1,13 +1,16 @@
 ---
-layout: case-study
-title: Mhor Collective
-excerpt: Describing just some of the free tools and benefits that digital can bring to third sector organisations.
-image: disabled-access-reviews-for-disabled-people-their-families-and-friends.png
-website: http://mhorcollective.com/
+layout: digital-pioneer
+title: Digital Pioneers
+excerpt: Some fantastic stories of digital use across the Scottish third sector. Read on to be inspired.
+submenu: evolution-digital-pioneers
+pioneer-title: Euan's Guide
+pioneer-excerpt: Find out how Euan’s Guide are using digital to introduce a fun gamification element to their online reviews.
+image: EGLogo.png
+website: https://www.euansguide.com
 email:
-twitter-url: https://twitter.com/mhorcollective
+twitter-url: https://twitter.com/EuansGuide?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
 facebook-url: https://en-gb.facebook.com/EuansGuide
-permalink: /evolution/digital-pioneers/mhor-collective/
+permalink: /evolution/digital-pioneers/euans-guide/
 ---
 
 We at SCVO Digital Team like to digitally inspire and be inspired! So what better way to do that than
